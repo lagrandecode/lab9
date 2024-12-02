@@ -1,4 +1,4 @@
-package model;
+package src.model;
 
 // Student class to represent the data model
 public class Student {

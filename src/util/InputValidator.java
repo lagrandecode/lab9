@@ -1,4 +1,4 @@
-package util;
+package src.util;
 
 // InputValidator class to validate student inputs
 public class InputValidator {

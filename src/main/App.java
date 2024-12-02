@@ -1,7 +1,7 @@
 package src.main;
 
-import model.Student;
-import util.InputValidator;
+import src.model.Student;
+import src.util.InputValidator;
 import java.util.ArrayList;
 import java.util.Scanner;
 
